@@ -1,0 +1,1 @@
+Make sure the song file is in the root directory and the path to the song doesnt have any spaces in it (none in file name, song name, etc.)
